@@ -47,8 +47,8 @@ git --version
 2. Клонируйте репозиторий с проектом:
 
 ```bash
-git clone https://github.com/fortrest-jr/sqa25-calc-task.git
-cd sqa25-calc-task
+git clone https://github.com/fortrest-jr/sqa37-calc-task.git
+cd sqa37-calc-task
 ```
 
 
